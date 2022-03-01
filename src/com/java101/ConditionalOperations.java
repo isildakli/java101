@@ -91,6 +91,56 @@ public class ConditionalOperations {
 //        System.out.print(message);
 
 
+        // Activities Dependent on Whether Condition
+
+//        int temperature;
+//
+//        System.out.print("What is temperature?");
+//        temperature = input.nextInt();
+//
+//        if (temperature < 5)
+//            System.out.print("it is time to ski");
+//        if (temperature >= 5 && temperature <= 15)
+//            System.out.print("it is time to cinema");
+//        if (temperature >= 15 && temperature <= 25)
+//            System.out.print("it is time to picnic");
+//        else
+//            System.out.print("it is time to swim");
+
+
+        // Order from the Biggest the Smallest
+
+//        System.out.print("first number?");
+//        int first = input.nextInt();
+//        System.out.print("second number?");
+//        int second = input.nextInt();
+//        System.out.print("third number?");
+//        int third = input.nextInt();
+//
+//        if(first > second && first > third){
+//            if (second > third)
+//                System.out.print(first+">"+second+">"+third);
+//            else
+//                System.out.print(first+">"+third+">"+second);
+//        }
+//
+//        else if (second > third){
+//            if (first > third)
+//            System.out.print(second+">"+first+">"+third);
+//            else
+//                System.out.print(second+">"+third+">"+first);
+//        }
+//
+//        else {
+//            if (first > second)
+//                System.out.print(third+">"+first+">"+second);
+//            else
+//                System.out.print(third+">"+second+">"+first);
+//        }
+
+
+        // Horoscope Finding
+
 
     }
 }
