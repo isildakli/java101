@@ -1,7 +1,7 @@
-package com.company;
+package com.basics;
 import java.util.Scanner;
 
-public class Main {
+public class BasicConcepts {
 
     public static void main(String[] args) {
 
@@ -74,7 +74,30 @@ public class Main {
 //        double area =(pi * (radius*radius) * angle) / 360;
 //        System.out.print("Area : "+ area);
 
+        // HOMEWORKS --->
 
+        // Body Mass Index Calculator --->
+
+//        System.out.print("Please write your height (in meter)");
+//        double height =input.nextDouble();
+//        System.out.print("Please write your weight (in kg)");
+//        double weight =input.nextDouble();
+//        double index =(weight) / height * height;
+//        System.out.print("Body Mass Index : "+ index);
+
+        // Greengrocer Calculator
+
+//        System.out.print("How many pears did you take (in kg)");
+//        double pears =input.nextDouble();
+//        System.out.print("How many apples did you take (in kg)");
+//        double apples =input.nextDouble();
+//        System.out.print("How many tomatos did you take (in kg)");
+//        double tomatos =input.nextDouble();
+//        System.out.print("How many bananas did you take (in kg)");
+//        double bananas =input.nextDouble();
+//        System.out.print("How many aubergine did you take (in kg)");
+//        double aubergine =input.nextDouble();
+//        System.out.print("Total amount : " + (pears +apples +tomatos +bananas +aubergine ));
 
     }
 }
