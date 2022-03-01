@@ -1,4 +1,4 @@
-package com.basics;
+package com.java101;
 import java.util.Scanner;
 
 public class BasicConcepts {
