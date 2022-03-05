@@ -55,7 +55,9 @@ public class Student {
     }
 
     public void calcAvarage() {
-        this.avarage = (this.fizik.note + this.kimya.note + this.mat.note) / 3;
+        this.avarage = ((this.fizik.note * 0.8) + (this.fizik.sozluNotu * 0.2)
+                + (this.kimya.note * 0.8) + (this.kimya.sozluNotu * 0.2)
+                + (this.mat.note * 0.8) + (this.mat.sozluNotu * 0.2)) / 3;
     }
 
     public boolean isCheckPass() {
