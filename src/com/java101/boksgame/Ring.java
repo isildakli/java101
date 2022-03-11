@@ -21,7 +21,7 @@ public class Ring {
             while (f1.health > 0 && f2.health > 0) {
                 System.out.println("======== YENİ ROUND ===========");
                 randomValue = Math.random() * 100;
-                if (randomValue > 50.0){
+                if (randomValue < 50.0){
                     f2.health = f1.hit(f2);
                     if (isWin()){
                         break;
