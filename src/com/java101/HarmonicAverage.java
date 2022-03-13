@@ -1,6 +1,6 @@
 package com.java101;
 
-public class HarmonicAveage {
+public class HarmonicAverage {
 
     public static void main(String[] args) {
         double [] numbers = {1, 2, 3, 4, 5};

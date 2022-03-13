@@ -23,7 +23,6 @@ public class Traspose {
 
         for (int i = 0 ; i < matrix2.length; i ++){
             for (int j = 0 ; j < matrix2.length; j ++){
-                matrix2[i][j] = matrix[j][i] ;
                 System.out.print(" " + matrix[j][i] + " ");
             }
             System.out.println(" ");

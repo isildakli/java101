@@ -2,7 +2,7 @@ package com.java101;
 
 import java.util.Arrays;
 
-public class RepeitiveNumbers {
+public class RepetitiveNumbers {
 
     static boolean isFind(int[] arr, int value){
         for (int i : arr) {
